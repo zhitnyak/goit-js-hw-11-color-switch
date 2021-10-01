@@ -1,0 +1,9 @@
+.button {
+  display: inline;
+  width: 200px;
+  padding: 10px;
+  border-radius: 3px;
+  background-color: cadetblue;
+  cursor: pointer;
+  font-size: 18px;
+}
